@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @trungkien45
-- 👀 I’m interested in AI, ML, NLP
-- 🌱 I’m currently learning AI, ML, NLP
+
 - 💞️ I’m looking to collaborate on every one
 - 📫 How to reach me: facebook.com/trungkien45
 
